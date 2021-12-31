@@ -1,0 +1,7 @@
+// Переопределение дефолтных значений переменных Bootstrap 4 и определение своих
+@import "variables";
+@import "font/fonts";
+// Подключение своих SCSS файлов
+@import "my";
+@import "toggler/toggler";
+@import "navbar/navbar";
